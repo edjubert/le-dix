@@ -14,8 +14,7 @@ You can test it by flashing this link: https://configure.zsa.io/moonlander/layou
 #### Num
 ![image](https://github.com/edjubert/croissants/assets/16240724/2e42bb01-6fac-4cc6-8a40-5bc16c084e69)
 
-![Num layer combos](https://github.com/edjubert/croissants/assets/16240724/51f928cf-7edf-492a-b4a3-a54fd43acc9c)
-
+![Num layer combos](https://github.com/edjubert/croissants/assets/16240724/4450f514-ac09-47cc-9c88-423fc0eba626) 
 
 #### Symbols 
 ![image](https://github.com/edjubert/croissants/assets/16240724/c02c7b20-2914-40c9-baf4-6263c40036b4)
