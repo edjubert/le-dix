@@ -35,14 +35,24 @@ You can test it by flashing this link: https://configure.zsa.io/moonlander/layou
 
 ### Layers
 #### Alpha
-##### Colemak
-![Alpha layer ZSA Colemak](https://github.com/edjubert/croissants/assets/16240724/de603144-0a17-42f0-8bf1-25eb357fb0b9)
+<details>
+  <summary>
+    Colemak
+  </summary>
+  
+  ![Alpha layer ZSA Colemak](https://github.com/edjubert/croissants/assets/16240724/de603144-0a17-42f0-8bf1-25eb357fb0b9)
+  
+  ![Alpha layer combos Colemak](https://github.com/edjubert/croissants/assets/16240724/391dd514-d541-4f15-86d7-a54b92970c40)
+</details>
 
-![Alpha layer combos Colemak](https://github.com/edjubert/croissants/assets/16240724/391dd514-d541-4f15-86d7-a54b92970c40)
 
-##### QWERTY
-![Alpha layer combos QWERTY](https://github.com/edjubert/croissants/assets/16240724/a7a76d82-8a25-4b8c-8089-a04f162afc17)
-
+<details>
+  <summary>
+    QWERTY
+  </summary>
+  
+  ![Alpha layer combos QWERTY](https://github.com/edjubert/croissants/assets/16240724/a7a76d82-8a25-4b8c-8089-a04f162afc17)
+</details>
 
 #### Num
 ![image](https://github.com/edjubert/croissants/assets/16240724/2e42bb01-6fac-4cc6-8a40-5bc16c084e69)
