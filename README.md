@@ -31,7 +31,9 @@ The layout is so comfy that I also stop using the mouse to use the one on the bo
 
 ## Moonlander
 I'm currently using this layout on the ZSA Moonlander.
-You can test it by flashing this link: https://configure.zsa.io/moonlander/layouts/JzzyW/latest/0
+You can test it by flashing these links: 
+- [Colemak](https://configure.zsa.io/moonlander/layouts/JzzyW/latest/0)
+- [QWERTY](https://configure.zsa.io/moonlander/layouts/jvDM7/latest/0)
 
 ### Layers
 #### Alpha
