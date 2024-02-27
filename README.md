@@ -38,49 +38,61 @@ You can test it by flashing these links:
 ### Layers
 #### Alpha
 <details>
-  <summary>
-    Colemak Light
-  </summary>
-
+  <summary>Colemak Light</summary>
   ![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
 </details>
 
 
 <details>
-  <summary>
-    Colemak Dark
-  </summary>
-
+  <summary>Colemak Dark</summary>
   ![Colemak dark](https://github.com/edjubert/croissants/assets/16240724/1b098ea1-589d-49c0-aef4-66ab52f01c73)
 </details>
 
 
 <details>
-  <summary>
-    QWERTY Light
-  </summary>
-
+  <summary>QWERTY Light</summary>
   ![Qwerty](https://github.com/edjubert/croissants/assets/16240724/fabbc73d-3640-41bc-9b3d-863c63aee5a5)
 </details>
 
 
 <details>
-  <summary>
-    QWERTY Dark
-  </summary>
-
+  <summary>QWERTY Dark</summary>
   ![Qwerty dark](https://github.com/edjubert/croissants/assets/16240724/4f9fcfc5-5d6b-43f5-970c-f9c7c67c077a)
 </details>
 
-#### Num
-![image](https://github.com/edjubert/croissants/assets/16240724/2e42bb01-6fac-4cc6-8a40-5bc16c084e69)
+#### Numeric
+<details>
+  <summary>Numeric light</summary>
+  ![numeric drawio](https://github.com/edjubert/croissants/assets/16240724/01031c4e-b205-4080-8957-69754e8dee38)
+</details>
 
-![Num layer combos](https://github.com/edjubert/croissants/assets/16240724/4450f514-ac09-47cc-9c88-423fc0eba626) 
+<details>
+  <summary>Numeric dark</summary>
+  ![numeric dark drawio](https://github.com/edjubert/croissants/assets/16240724/581d2575-7f4a-428c-83dd-c944cda9c5d4)
+</details>
 
-#### Symbols 
-![image](https://github.com/edjubert/croissants/assets/16240724/c02c7b20-2914-40c9-baf4-6263c40036b4)
+#### F keys
+<details>
+  <summary>F keys light</summary>
+  ![f keys drawio](https://github.com/edjubert/croissants/assets/16240724/5a1f8708-7bdd-4d14-8543-6e6434a2a046)
+</details>
 
-![Symbols layer combos](https://github.com/edjubert/croissants/assets/16240724/4d99f7d1-157f-4f74-ad3b-c277e09c5600)
+<details>
+  <summary>F keys dark</summary>
+  ![f keys dark drawio](https://github.com/edjubert/croissants/assets/16240724/8de9cb66-b789-4642-a851-a3bb35ef9e52)
+</details>
+
+
+#### Symbols
+<details>
+  <summary>Symbols light</summary>
+  ![symbols drawio](https://github.com/edjubert/croissants/assets/16240724/20ccf5be-e712-4f5e-8f20-90f3d17e6a9c)
+</details>
+
+<details>
+  <summary>Symbols dark</summary>
+  ![symbols dark drawio](https://github.com/edjubert/croissants/assets/16240724/076087b0-2149-48e5-b792-22ee569498cb)
+</details>
 
 #### Navigation
 ![image](https://github.com/edjubert/croissants/assets/16240724/c7910360-cb6d-4e05-8bb5-03a5629e60d0)
@@ -91,11 +103,6 @@ with vertical scroll
 
 with horizontal scroll
 ![image](https://github.com/edjubert/croissants/assets/16240724/0e808fb2-8ef2-44fd-94ce-f4cc9ce2153a)
-
-#### F keys
-![image](https://github.com/edjubert/croissants/assets/16240724/6eeeec2c-1da4-4c87-810d-d96f91792757)
-
-![Function layer combos](https://github.com/edjubert/croissants/assets/16240724/dd15a0c0-e8b3-4190-a6c8-6a8cf9e4f622)
 
 #### Media
 ![image](https://github.com/edjubert/croissants/assets/16240724/73c462bf-10f7-41ea-8faf-5bdeab569847)
