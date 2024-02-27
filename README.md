@@ -59,15 +59,9 @@ You can test it by flashing these links:
     QWERTY
   </summary>
 
-  <details>
-    <summary>light</summary>
-    ![Qwerty](https://github.com/edjubert/croissants/assets/16240724/fabbc73d-3640-41bc-9b3d-863c63aee5a5)
-  </details>
+  ![Qwerty](https://github.com/edjubert/croissants/assets/16240724/fabbc73d-3640-41bc-9b3d-863c63aee5a5)
   
-  <details>
-    <summary>dark</summary>
-    ![Qwerty dark](https://github.com/edjubert/croissants/assets/16240724/4f9fcfc5-5d6b-43f5-970c-f9c7c67c077a)
-  </details>
+  ![Qwerty dark](https://github.com/edjubert/croissants/assets/16240724/4f9fcfc5-5d6b-43f5-970c-f9c7c67c077a)
 </details>
 
 #### Num
