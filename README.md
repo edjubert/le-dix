@@ -1,4 +1,4 @@
-# Croissants
++11# Croissants
 A 10 keys keyboard layout in a shape of a croissant
 
 ## Conception
@@ -41,10 +41,16 @@ You can test it by flashing these links:
   <summary>
     Colemak
   </summary>
+
+  <details>
+    <summary>light</summary>
+    ![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
+  </details>
   
-  ![Alpha layer ZSA Colemak](https://github.com/edjubert/croissants/assets/16240724/de603144-0a17-42f0-8bf1-25eb357fb0b9)
-  
-  ![Alpha layer combos Colemak](https://github.com/edjubert/croissants/assets/16240724/391dd514-d541-4f15-86d7-a54b92970c40)
+  <details>
+    <summary>dark</summary>
+    ![Colemak dark](https://github.com/edjubert/croissants/assets/16240724/1b098ea1-589d-49c0-aef4-66ab52f01c73)
+  </details>
 </details>
 
 
@@ -52,8 +58,16 @@ You can test it by flashing these links:
   <summary>
     QWERTY
   </summary>
+
+  <details>
+    <summary>light</summary>
+    ![Qwerty](https://github.com/edjubert/croissants/assets/16240724/fabbc73d-3640-41bc-9b3d-863c63aee5a5)
+  </details>
   
-  ![Alpha layer combos QWERTY](https://github.com/edjubert/croissants/assets/16240724/a7a76d82-8a25-4b8c-8089-a04f162afc17)
+  <details>
+    <summary>dark</summary>
+    ![Qwerty dark](https://github.com/edjubert/croissants/assets/16240724/4f9fcfc5-5d6b-43f5-970c-f9c7c67c077a)
+  </details>
 </details>
 
 #### Num
