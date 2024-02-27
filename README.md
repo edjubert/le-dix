@@ -1,4 +1,4 @@
-+11# Croissants
+# Croissants
 A 10 keys keyboard layout in a shape of a croissant
 
 ## Conception
@@ -39,7 +39,7 @@ You can test it by flashing these links:
 #### Alpha
 <details>
   <summary>Colemak Light</summary>
-  ![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
+![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
 </details>
 
 
