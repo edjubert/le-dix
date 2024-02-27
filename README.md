@@ -38,5 +38,4 @@ You can test it by flashing these links:
 ### Layers
 [Light](./light.md)
 
-#### Dark
 [Dark](./dark.md)
