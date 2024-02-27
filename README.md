@@ -39,28 +39,36 @@ You can test it by flashing these links:
 #### Alpha
 <details>
   <summary>
-    Colemak
+    Colemak Light
   </summary>
 
-  <details>
-    <summary>light</summary>
-    ![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
-  </details>
-  
-  <details>
-    <summary>dark</summary>
-    ![Colemak dark](https://github.com/edjubert/croissants/assets/16240724/1b098ea1-589d-49c0-aef4-66ab52f01c73)
-  </details>
+  ![Colemak](https://github.com/edjubert/croissants/assets/16240724/3628ac7a-907f-4b69-ab73-bb632b42b700)
 </details>
 
 
 <details>
   <summary>
-    QWERTY
+    Colemak Dark
+  </summary>
+
+  ![Colemak dark](https://github.com/edjubert/croissants/assets/16240724/1b098ea1-589d-49c0-aef4-66ab52f01c73)
+</details>
+
+
+<details>
+  <summary>
+    QWERTY Light
   </summary>
 
   ![Qwerty](https://github.com/edjubert/croissants/assets/16240724/fabbc73d-3640-41bc-9b3d-863c63aee5a5)
-  
+</details>
+
+
+<details>
+  <summary>
+    QWERTY Dark
+  </summary>
+
   ![Qwerty dark](https://github.com/edjubert/croissants/assets/16240724/4f9fcfc5-5d6b-43f5-970c-f9c7c67c077a)
 </details>
 
