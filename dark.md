@@ -1,5 +1,5 @@
-# Croissants
-A 10 keys keyboard layout in a shape of a croissant
+# Le Dix
+A 10 keys keyboard layout
 
 ### Layers Dark
 #### Main
