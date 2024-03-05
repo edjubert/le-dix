@@ -1,5 +1,5 @@
-# Croissants
-A 10 keys keyboard layout in a shape of a croissant
+# Le Dix
+A 10 keys keyboard layout
 
 ## Conception
 The main idea is to create a 10 keys keyboard usable for a day to day usage.
