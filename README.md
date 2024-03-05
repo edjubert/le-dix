@@ -1,6 +1,11 @@
 # Le Dix
 A 10 keys keyboard layout
 
+## Keyboard
+I'm currently daily using this layout on the [ZSA Moonlander](https://www.zsa.io/moonlander/). This allow me to experiment a lot all possibilities.
+I'm working on a physical keyboard, but it's still a work in progress.
+[Here is the Github link of the project](https://github.com/edjubert/le-dix_keyboard). It might not be accessible yet.
+
 ## Conception
 The main idea is to create a 10 keys keyboard usable for a day to day usage.
 I transposed the Colemak philosophy to a 10 keys keyboard but without steno typing.
